@@ -1,6 +1,6 @@
 // config/cors.js
 const corsOptions = {
-    origin: 'http://localhost:5174', 
+    origin: 'http://100.85.160.97:5174', 
     credentials: true, 
   };
   
